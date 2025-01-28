@@ -3,6 +3,8 @@
 A simple and intuitive User Management Dashboard built with React and Material-UI.
 This application allows users to view, add, edit, and delete user information using a mock API.
 
+![image](https://github.com/yprasad28/user-management-dashboard/blob/54b7e76cc8152b209748dab1248ccef65ee14350/Screenshot%202025-01-28%20094619.png)
+
 # Features
 View a list of users
 
